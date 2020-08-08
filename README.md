@@ -1,2 +1,2 @@
-# template-bootstrap
-Template Repo for Bootstrapping Workspaces for account creation. 
+# Account Creation Steps
+Repo for Bootstrapping Workspaces for account creation. 
