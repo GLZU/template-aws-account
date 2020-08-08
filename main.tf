@@ -1,0 +1,6 @@
+locals {
+
+ test = 1
+
+}
+
